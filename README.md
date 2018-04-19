@@ -1,11 +1,4 @@
-<<<<<<< HEAD
-# Vue2.0仿饿了么webapp单页应用
-<hr>
-声明: 代码源于 <a  href="https://github.com/ustbhuangyi">黄毅</a>老师在慕课网上的教学视频，我自己重现了vue2.0版本，喜欢的童鞋可以去支持老师的课程：http://coding.imooc.com/class/74.html
-<hr>
-演示地址：http://vuejssellapp.t.imooc.io/#!/
 
-![演示.png](http://upload-images.jianshu.io/upload_images/4670483-9a21e2ae16ea6ac6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 <hr>
 ##依赖工具：
